@@ -2,18 +2,18 @@
 <h3 align="center">🚀 Building Scalable Apps | AI Explorer | Android & Flutter Developer</h3>
 
 ---
+## 🧑‍💻 About Me
 
-## 💫 About Me
-- 🎓 B.Tech Computer Science Engineering student  
-- 📱 Android Developer (**Kotlin, Jetpack, MVVM**)  
-- 🌐 Cross-platform Developer (**Flutter**)  
-- 🤖 Exploring **Artificial Intelligence & AI-powered apps**  
-- 🧠 Strong in **Data Structures & Algorithms (C++)**  
-- 🌱 Currently learning:
-  - Backend (**Node.js, APIs**)
-  - AI Integration
-  - iOS Development  
-- ⚡ Focus: Building **real-world + intelligent applications**
+* 🎓 **B.Tech Computer Science Engineering — 4th Year**
+* 📱 **Android Developer** — Kotlin, Jetpack, MVVM
+* 🌐 **Cross-Platform Developer** — Flutter
+* ⚙️ **Backend Development** — .NET, REST APIs, MySQL
+* 🤖 **AI Explorer** — building AI-powered applications & integrating AI APIs
+* 🧠 **Data Structures & Algorithms** — C++ | 100+ LeetCode problems
+* 🔧 Experienced with **Firebase, API development, authentication & database integration**
+* 🚀 Building **real-world, scalable & intelligent applications**
+* 📚 Currently deepening my skills in **.NET, Backend Development, System Design & AI Integration**
+* 🎯 **Focus:** Full-Stack Development • Mobile Apps • AI • DSA
 
 ---
 
