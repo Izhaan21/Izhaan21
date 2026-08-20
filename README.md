@@ -28,8 +28,6 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ### 🚀 Languages
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=c)
@@ -43,8 +41,6 @@
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 
 ### 🌐 Frontend & UI
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
