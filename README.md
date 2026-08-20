@@ -28,29 +28,41 @@
 
 ## 💻 Tech Stack
 
+## 💻 Tech Stack
+
 ### 🚀 Languages
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=c)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![Dart](https://skillicons.dev/icons?i=dart)
+![C#](https://skillicons.dev/icons?i=cs)
 
-### 🎨 Frontend & UI
+### 📱 Mobile Development
+![Android](https://skillicons.dev/icons?i=androidstudio)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+
+### 🌐 Frontend & UI
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
-### ⚙️ Backend & Cloud
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![AWS](https://skillicons.dev/icons?i=aws)
+### ⚙️ Backend & Database
+![.NET](https://skillicons.dev/icons?i=dotnet)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### 🛠 Tools
+### 🤖 AI & Development
 ![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+### 🛠️ Tools & Platforms
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Netlify](https://skillicons.dev/icons?i=netlify)
-![Apache](https://skillicons.dev/icons?i=apache)
 
 ---
 
