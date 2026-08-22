@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Izhaan Hasan</h1>
+<h1 align="center">Hi 👋, I'm Izhaan Hasan Saifi</h1>
 <h3 align="center">🚀 Building Scalable Apps | AI Explorer | Android & Flutter Developer</h3>
 
 ---
